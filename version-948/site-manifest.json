@@ -1,0 +1,70 @@
+{
+  "siteName": "日剧动漫屋",
+  "siteTitle": "最新国产大片在线观看免费_高清电视剧片库-日剧动漫屋",
+  "movieCount": 2000,
+  "categoryCount": 12,
+  "categories": [
+    {
+      "name": "国产大片",
+      "slug": "guochan-dapian",
+      "count": 167
+    },
+    {
+      "name": "高清电视剧",
+      "slug": "gaoqing-dianshiju",
+      "count": 167
+    },
+    {
+      "name": "日剧动漫",
+      "slug": "riju-dongman",
+      "count": 167
+    },
+    {
+      "name": "悬疑惊悚",
+      "slug": "xuanji-jingsong",
+      "count": 167
+    },
+    {
+      "name": "动作犯罪",
+      "slug": "dongzuo-fanzui",
+      "count": 167
+    },
+    {
+      "name": "爱情文艺",
+      "slug": "aiqing-wenyi",
+      "count": 167
+    },
+    {
+      "name": "喜剧轻喜",
+      "slug": "xiju-qingxi",
+      "count": 167
+    },
+    {
+      "name": "科幻奇幻",
+      "slug": "kehuan-qihuan",
+      "count": 167
+    },
+    {
+      "name": "家庭剧情",
+      "slug": "jiating-juqing",
+      "count": 166
+    },
+    {
+      "name": "纪录综艺",
+      "slug": "jilupian-zongyi",
+      "count": 166
+    },
+    {
+      "name": "港台精选",
+      "slug": "gangtai-jingxuan",
+      "count": 166
+    },
+    {
+      "name": "海外佳片",
+      "slug": "haiwai-jiapian",
+      "count": 166
+    }
+  ],
+  "coverPolicy": "Pages reference top-level 1.jpg through 150.jpg in a repeating sequence.",
+  "htmlPages": 2019
+}
